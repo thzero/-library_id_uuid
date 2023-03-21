@@ -4,6 +4,8 @@
 
 # library_id_uuid
 
+This library uses https://github.com/kelektiv/node-uuid package, v4, to generate long and short ids.
+
 ## Requirements
 
 ### NodeJs
@@ -13,5 +15,3 @@
 ## Installation
 
 [![NPM](https://nodei.co/npm/@thzero/library_id_uuid.png?compact=true)](https://npmjs.org/package/@thzero/library_id_uuid)
-
-### Requirements
