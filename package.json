@@ -1,10 +1,10 @@
 {
   "name": "@thzero/library_id_uuid",
   "type": "module",
-  "version": "0.18.0",
+  "version": "0.18.1",
   "version_major": 0,
   "version_minor": 18,
-  "version_patch": 0,
+  "version_patch": 1,
   "version_date": "02/24/2024",
   "author": "thZero",
   "license": "MIT",
@@ -16,6 +16,7 @@
     "url": "https://github.com/thzero/library_id_uuid/issues"
   },
   "homepage": "https://github.com/thzero/library_id_uuid#readme",
+  "main": "index.js",
   "scripts": {
     "cli-update": "library-cli --updateversion --pi",
     "test": "echo \"Error: no test specified\" && exit 1"
